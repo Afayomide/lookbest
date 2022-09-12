@@ -235,6 +235,16 @@ background-color: white;
    width: 200px;
    height: 200px;
 }
+.feedback{
+   font-size: larger;
+   font-weight: 900;
+}
+.feedback-sections{
+   border: solid 2px;
+}
+.feedback-sections p{
+   font-size: 20px;
+}
 @media (max-width: 767px){
    h1{
       font-size: 20px;
